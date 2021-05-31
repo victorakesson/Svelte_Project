@@ -3,7 +3,7 @@
 # League of legends item buyer 
 
 In this website your job is to click on the diffrent minions and when you get 3100 coins 
-you can buy a item. 
+you can buy a item. You cant really do anything with the items at this point but that may be added. 
 
 # Bugs/problems
 
